@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "279407941700",
+    "project_id": "genomapp-1ff7a",
+    "storage_bucket": "genomapp-1ff7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279407941700:android:038f686655ee22b9748411",
+        "android_client_info": {
+          "package_name": "com.mycompany.hola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279407941700-6ljp92dmj7rol7e6glhbrcfco70h07g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBse0VqkJ09Od7_jornWWnw3O0GH18YD9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279407941700-5fpif1r7kvn9rfcgp257thqc2rja9e3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279407941700-2v69e3f8evts8abmnv1nfclq76kv362v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hola"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
